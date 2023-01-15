@@ -6,4 +6,4 @@ This project uses python and allows the user to play a classic snake game.
 
 # Working
 
-git clone 
+git clone https://github.com/Abhishek-Biswas-Deep/Snake-game
